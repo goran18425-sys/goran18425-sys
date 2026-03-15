@@ -47,4 +47,4 @@ Each project helps me explore different parts of **JavaScript, DOM manipulation,
 
 ---
 
-✨ *Learning, building and improving step by step.*
+✨ *Stay hungry, stay foolish*
